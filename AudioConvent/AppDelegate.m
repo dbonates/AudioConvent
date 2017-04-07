@@ -25,7 +25,7 @@
                                                                    0.0f,
                                                                    screenSize.width / 2.0f,
                                                                    screenSize.height / 2.0f)
-                                              styleMask:NSWindowStyleMaskTitled | NSWindowStyleMaskClosable | NSWindowStyleMaskMiniaturizable | NSWindowStyleMaskResizable
+                                              styleMask:NSWindowStyleMaskTitled | NSWindowStyleMaskClosable | NSWindowStyleMaskMiniaturizable
                                                 backing:NSBackingStoreBuffered
                                                   defer:NO];
     [self.window center];
